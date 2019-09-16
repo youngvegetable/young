@@ -1,0 +1,210 @@
+/*字体 大小 颜色 背景 行高 内边距 外边距 浮动 清除浮动 超出隐藏*/
+.line-through{
+    text-decoration-line: line-through;
+}
+.line-2em{
+    line-height:2;
+}
+.line-36{
+    line-height: 36px;
+}
+.title-main{
+    font-size: 24px;
+    color: #ff2d52;
+}
+
+/*字体大小 12 14 16 18 20 22 24 30 36*/
+.font-12{
+    font-size: 12px;
+}
+.font-14{
+    font-size: 14px;
+}
+.font-16{
+    font-size: 16px;
+}
+.font-18{
+    font-size: 18px;
+}
+.font-20{
+    font-size: 20px;
+}
+.font-22{
+    font-size: 22px;
+}
+.font-24{
+    font-size: 24px;
+}
+.font-30{
+    font-size: 30px;
+}
+.font-36{
+    font-size: 36px;
+}
+/*对齐方式*/
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+/*字体颜色 主字体 黑000 333 666 999 aaa 白fff*/
+.text-main{
+     color: #ff2d52;
+ }
+.text-main-active{
+    color: #ec193e;
+}
+.text-0{
+    color: #000000;
+}
+.text-3{
+    color: #333333;
+}
+.text-6{
+    color: #666666;
+}
+.text-9{
+    color: #999999;
+}
+.text-a{
+    color: #aaaaaa;
+}
+.text-f{
+    color: #ffffff;
+}
+/*背景 主背景 覆盖背景 f1f1f1 f2f2f2*/
+.bg-main{
+     background-color:#ff2d52;
+ }
+.bg-black{
+    background-color: #535353;
+}
+.bg-active{
+    background-color: #ec193e;
+}
+.bg-f1{
+    background-color: #f1f1f1;
+}
+.bg-f2{
+    background-color: #f2f2f2;
+}
+.bg-f7{
+    background-color: #f7f7f7;
+}
+/*浮动 消除浮动*/
+.fl{
+    float:left;
+}
+.fr{
+    float:right;
+}
+.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+/*内边距 */
+.padding-20-lr{
+    padding:0 20px;
+}
+.padding-30-b{
+    padding-bottom: 30px;
+}
+.padding-30-tb{
+    padding: 30px 0;
+}
+.padding-30-lr{
+    padding:0 30px;
+}
+
+
+/*外边距 5 10 15 20 25 30*/
+.margin-5{
+     margin: 5px;
+ }
+.margin-5-l{
+    margin-left: 5px;
+}
+.margin-5-r{
+    margin-right: 5px;
+}
+.margin-5-t{
+    margin-top: 5px;
+}
+.margin-5-b{
+    margin-bottom: 5px;
+}
+.margin-5-lr{
+    margin: 0 5px;
+}
+.margin-5-tb{
+    margin: 5px 0;
+}
+.margin-10{
+    margin: 10px;
+}
+.margin-10-l{
+    margin-left: 10px;
+}
+.margin-10-r{
+    margin-right: 10px;
+}
+.margin-10-t{
+    margin-top: 10px;
+}
+.margin-10-b{
+    margin-bottom: 10px;
+}
+.margin-10-lr{
+    margin: 0 10px;
+}
+.margin-10-tb{
+    margin: 10px 0;
+}
+.margin-15{
+    margin: 15px;
+}
+.margin-15-l{
+    margin-left: 15px;
+}
+.margin-15-r{
+    margin-right: 15px;
+}
+.margin-15-t{
+    margin-top: 15px;
+}
+.margin-15-b{
+    margin-bottom: 15px;
+}
+.margin-15-lr{
+    margin: 0 15px;
+}
+.margin-15-tb{
+    margin: 15px 0;
+}
+
+
+/*超出隐藏*/
+/*单行*/
+.overflow{
+    overflow: hidden;
+}
+
+.overflow-ellipsis{
+    overflow: hidden;
+    text-overflow:ellipsis;
+    /*不允许换行*/
+    white-space: nowrap;
+}
+
+/*边框*/
+
+
+
+
+
+
